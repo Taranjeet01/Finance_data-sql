@@ -1,0 +1,25 @@
+expense data,,,,
+,,,,
+,,,,
+Expense_id,date,Amount,Department_id,Source
+1,15-01-2024,40000,1,Office Supplies
+2,25-01-2024,10000,2,Commisions
+3,10-02-2024,12000,2,Travel
+4,20-02-2024,160000,1,Salary
+5,11-03-2024,1000,3,Ad campaign
+6,18-03-2024,15000,3,Events
+7,12-04-2024,16000,4,Recruitment fee
+8,21-04-2024,85000,4,Employee welfare
+9,27-05-2024,90000,5,Software licenses
+10,19-05-2024,80000,5,IT infrastructure
+11,20-06-2024,23400,1,Bonuses
+12,19-07-2024,25000,1,Stationary
+13,23-07-2024,46000,2,Client Entertainment
+14,18-08-2024,12000,2,Local Travel
+15,25-08-2024,19000,3,Digital Marketing
+16,19-09-2024,22000,3,Brand Promotion
+17,29-09-2024,28000,5,Server Maintainance
+18,31-10-2024,18500,5,Cloud Subscription
+19,05-10-2024,19900,1,Audit Fees
+20,18-11-2024,13300,4,HR software
+,,,,

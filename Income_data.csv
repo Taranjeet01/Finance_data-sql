@@ -1,0 +1,24 @@
+Income data,,,,
+,,,,
+,,,,
+Transaction_id,date,Amount,Department_id,Source
+1001,05-01-2024,150000,2,Product Sales
+1002,15-01-2024,180000,2,Service revenue
+1003,10-02-2024,120000,2,Product Sales
+1004,25-02-2024,130000,3,Campaign Revenue
+1005,10-03-2024,100000,2,Product Sales
+1006,15-03-2024,155000,3,Webinar Revenue
+1007,01-04-2024,160000,2,Product Sales
+1008,20-04-2024,185000,4,Internal Billing
+1009,05-05-2024,190000,1,Investment return
+1010,18-05-2024,180000,1,Interest Income
+1011,02-06-2024,123400,5,Tech Consultation
+1012,10-07-2024,190000,2,Product Sales
+1013,22-07-2024,110000,5,Tech Support Package
+1014,15-08-2024,170000,3,Sponsorship
+1015,20-08-2024,150000,3,Webinar Revenue
+1016,10-09-2024,150000,2,Product Sales
+1017,30-09-2024,280000,2,Internal Billing
+1018,11-10-2024,175000,2,Product Sales
+1019,30-10-2024,199000,5,Tech Consultation
+1020,10-11-2024,133000,2,Tech Consultation
